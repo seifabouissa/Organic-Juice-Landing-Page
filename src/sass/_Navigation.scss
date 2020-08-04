@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-top: 20px;
+    .logo{
+        font-size: 40px;
+    }
+    ul{
+        list-style: none;
+        li{
+            display: inline-block;
+            padding-right: 20px;
+            padding-top: 20px;
+        }
+    }
+    .search,.cart{
+        font-size: 20px;
+    }
+}

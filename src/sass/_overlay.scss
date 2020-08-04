@@ -1,0 +1,18 @@
+.overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    z-index: 99;
+}
+.first{
+    background: #FFA500;
+}
+.second{
+    background: #FF8C00;
+    left: 33.3%;
+}
+.third{
+    background: #FF4500;
+    left: 66.6%;
+}
