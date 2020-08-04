@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Organic-Juice-Landing-Page/static/css/main.e7d59a88.chunk.css",
+    "main.js": "/Organic-Juice-Landing-Page/static/js/main.4c5b6417.chunk.js",
+    "main.js.map": "/Organic-Juice-Landing-Page/static/js/main.4c5b6417.chunk.js.map",
+    "runtime-main.js": "/Organic-Juice-Landing-Page/static/js/runtime-main.44cfc5c4.js",
+    "runtime-main.js.map": "/Organic-Juice-Landing-Page/static/js/runtime-main.44cfc5c4.js.map",
+    "static/js/2.1541a7a8.chunk.js": "/Organic-Juice-Landing-Page/static/js/2.1541a7a8.chunk.js",
+    "static/js/2.1541a7a8.chunk.js.map": "/Organic-Juice-Landing-Page/static/js/2.1541a7a8.chunk.js.map",
+    "index.html": "/Organic-Juice-Landing-Page/index.html",
+    "precache-manifest.c815588be4ea6c1be5fdc7f1733c7ac1.js": "/Organic-Juice-Landing-Page/precache-manifest.c815588be4ea6c1be5fdc7f1733c7ac1.js",
+    "service-worker.js": "/Organic-Juice-Landing-Page/service-worker.js",
+    "static/css/main.e7d59a88.chunk.css.map": "/Organic-Juice-Landing-Page/static/css/main.e7d59a88.chunk.css.map",
+    "static/js/2.1541a7a8.chunk.js.LICENSE.txt": "/Organic-Juice-Landing-Page/static/js/2.1541a7a8.chunk.js.LICENSE.txt",
+    "static/media/juice.png": "/Organic-Juice-Landing-Page/static/media/juice.8df76c6d.png",
+    "static/media/leaf01.png": "/Organic-Juice-Landing-Page/static/media/leaf01.0862df3a.png",
+    "static/media/leaf02.png": "/Organic-Juice-Landing-Page/static/media/leaf02.0be40e93.png",
+    "static/media/leaf03.png": "/Organic-Juice-Landing-Page/static/media/leaf03.221dcc7e.png",
+    "static/media/leaf05.png": "/Organic-Juice-Landing-Page/static/media/leaf05.8a9a03fe.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44cfc5c4.js",
+    "static/js/2.1541a7a8.chunk.js",
+    "static/css/main.e7d59a88.chunk.css",
+    "static/js/main.4c5b6417.chunk.js"
+  ]
+}
